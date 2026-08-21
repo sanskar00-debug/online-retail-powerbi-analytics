@@ -36,4 +36,4 @@ Geographic distribution of order volumes across international territories to sup
 - `Tata_Data_Visualisation_Task.pbix`: Power BI source report
 - `Online Retail Data Set.xlsx`: Source dataset
 - `Report.pdf`: Exported multi-page report
-- `images/`: Visual assets for documentation
+  
