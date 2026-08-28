@@ -36,4 +36,16 @@ Geographic distribution of order volumes across international territories to sup
 - `Tata_Data_Visualisation_Task.pbix`: Power BI source report
 - `Online Retail Data Set.xlsx`: Source dataset
 - `Report.pdf`: Exported multi-page report
-- `images/`: Visual assets for documentation
+
+  ### 📊 Interactive Dashboard File
+The complete data transformation pipeline, data models, and interactive visualizations are saved in the project file. 
+
+👉 **[Click Here to Download the Power BI Project File (.pbix)](./The%20Power%20BI%20File/Tata_Data_Visualisation_Task.pbix)**  
+*(To view this file, download it and open it locally using Power BI Desktop)*
+
+---
+
+### 📷 Visual Dashboard Preview
+*If you do not have Power BI Desktop installed, here is a preview of the dynamic interface:*
+
+![Dashboard View](./Visual%20Previews/Tata_Data_Visualisation_Task.png)
