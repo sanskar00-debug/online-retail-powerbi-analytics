@@ -6,7 +6,6 @@ An end-to-end data analysis and visualization project built using Microsoft Powe
 ![MySQL](https://img.shields.io/badge/MySQL-8.0+-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-Desktop-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3.14.7-blue?style=for-the-badge&logo=Python)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
 ![Analytics](https://img.shields.io/badge/Data_Analytics-red?style=for-the-badge)
 ---
 
