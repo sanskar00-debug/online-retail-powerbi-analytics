@@ -4,7 +4,7 @@ An end-to-end data analysis and visualization project built using Microsoft Powe
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0+-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://shields.io)
+[![Python Version](https://shields.io)](https://python.org)
 ![Power BI](https://img.shields.io/badge/Power_BI-Desktop-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Analytics](https://img.shields.io/badge/Data_Analytics-blue?style=for-the-badge)
 ---
